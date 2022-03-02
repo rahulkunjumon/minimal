@@ -45,7 +45,7 @@ Functional and Non-Functional Testing.<br>
 and assist them at the critical times<br>
 • Work parallelly on multiple projects as well as provide assist during prod release<br>
 
-<center><img src="images/RakutenLogo.png"/></center><br>
+<center><img src="/assets/img/RakutenLogo.png"/></center><br>
 
 ---
 ## Tavant Technologies Pvt Ltd
@@ -76,7 +76,7 @@ and AppDynamics<br>
 • Creation of an Automation Regression Suite using Tavant Fire Framework for Consumer Portal<br>
 • Performance testing of various Genworth Applications<br>
 
-<center><img src="images/tavant-technologies-vector-logo.png"/></center><br>
+<center><img src="/assets/img/tavant-technologies-vector-logo.png"/></center><br>
 
 ---
 ### System Proficiency
