@@ -3,6 +3,7 @@
 
 Around 4+ years of experience in Performance and Automation Testing.<br>
 • Extensive knowledge of Performance Testing and monitoring.<br>
+• Completed ISTQB foundation level certfication.<br>
 • Strong expertise in working with load testing tools like Gatling, JMeter and LoadRunner.<br>
 • Sound Knowledge on Application Monitoring tools like New Relic and Dynatrace<br>
 • Experience in testing Web-based and Client-Server applications on different environments.<br>
@@ -14,7 +15,7 @@ Around 4+ years of experience in Performance and Automation Testing.<br>
 • Good Knowledge on JAVA to perform basic coding and debugging.<br>
 • Sound Knowledge on Apache Maven and Apache Tomcat server.<br>
 • Worked on setting up of Functional and Non-Functional testing framework from the scratch<br>
-• Completed ISTQB Foundation Course in Software Testing<br>
+
 ---
 # Experience
 
