@@ -1,5 +1,5 @@
 
-# SKILLS SUMMARY
+## SKILLS SUMMARY
 
 Around 4+ years of experience in Performance and Automation Testing.<br>
 • Extensive knowledge of Performance Testing and monitoring.<br>
@@ -51,31 +51,31 @@ and assist them at the critical times<br>
 ###  Quality Engineer I,  06/2017 - 12/2019
 
 #### 1. Project Name: NFR COE (internal)
-- Project Brief:
+- Project Brief:<br>
 • NFR Team deals with the Performance and Security Testing of the applications for Tavant. Being a
 niche zone in the field of Software Testing, Non - functional Requirements testing requires constant
 upgrades using latest state of art tools and software. NFR team, hence have an NFR COE which deals
-with the upgrades to the current technologies and methodologies of Load testing and reporting.
+with the upgrades to the current technologies and methodologies of Load testing and reporting.<br>
 • Jmeter, being a wildly used Open Source tool for Load Testing, required an Excellent Reporting
 format to compete with the paid tools like LoadRunner. This phase of the project was to create an
-Excel based JMeter Load test report, using Java.
+Excel based JMeter Load test report, using Java.<br>
 #### 2. Project Name: GUILD Test COE
 - Project Brief:
 • This project dealt with the creation of a Regression Suite, Loan creation Suite for Guild
-Mortgage, California, using Fire Framework
+Mortgage, California, using Fire Framework<br>
 #### 3. Projects Name: Sierra Pacific CD, Ditech Consumer Portal, Guild Mobile Platform
-- Project Brief:
-• Performance Testing of the above applications using JMeter and Load Runner
+- Project Brief:<br>
+• Performance Testing of the above applications using JMeter and Load Runner<br>
 #### 4. Project Name: NFR COE (Internal)
-- Project Brief:
+- Project Brief:<br>
 • POC on various application Monitoring tools namely New Relic
-and AppDynamics
+and AppDynamics<br>
 #### 5. Projects Name: Genworth Mortgage US
-- Project Brief:
-• Creation of an Automation Regression Suite using Tavant Fire Framework for Consumer Portal
-• Performance testing of various Genworth Applications
+- Project Brief:<br>
+• Creation of an Automation Regression Suite using Tavant Fire Framework for Consumer Portal<br>
+• Performance testing of various Genworth Applications<br>
 
-<center><img src="images/tavant-technologies-vector-logo.png"/></center>
+<center><img src="images/tavant-technologies-vector-logo.png"/></center><br>
 
 ---
 ### System Proficiency
@@ -95,40 +95,40 @@ New Relic, Dynatrace, Graphana
 ### Education
 
 • BTech from SCMS School of Engineering and Technology,
-Ernakulam, Kerala with 7.48 CGPA (MG University)  - 2017
+Ernakulam, Kerala with 7.48 CGPA (MG University)  - 2017<br>
 
 • Higher Secondary Education from Lord’s Academy ICSE/ISC
-School, Kerala with 86.4% (ISC)                   - 2013
+School, Kerala with 86.4% (ISC)                   - 2013<br>
 
 • Secondary Education from Lord’s Academy ICSE/ISC School,
-Kerala with 91.4% (ICSE)                          - 2011
+Kerala with 91.4% (ICSE)                          - 2011<br>
 
 
 
 ---
 ### CERTIFICATION/ TRAINING/ ACHIEVEMENT/
-• Completed ISTQB Foundation Course on Software Testing
-• Completed Application Monitoring using New Relic for DevOps from Udemy
-• Won the Tavant Best Rookie of the Year 2018
-• Two consecutive Quarterly awards in 2018 with Tavant Technologies
-• Two Excellence awards with Rakuten in 2020 and 2021
+• Completed ISTQB Foundation Course on Software Testing<br>
+• Completed Application Monitoring using New Relic for DevOps from Udemy<br>
+• Won the Tavant Best Rookie of the Year 2018<br>
+• Two consecutive Quarterly awards in 2018 with Tavant Technologies<br>
+• Two Excellence awards with Rakuten in 2020 and 2021<br>
 
 ---
 ### PEOPLE SKILLS
-• Ability to rapidly build relationship and set up trust.
-• Strong interpersonal and communication skills
-• Confident and Determined
-• Ability to cope up with different situations
+• Ability to rapidly build relationship and set up trust.<br>
+• Strong interpersonal and communication skills<br>
+• Confident and Determined<br>
+• Ability to cope up with different situations<br>
 
 ---
 ### PERSONAL DETAILS
-• Father’s Name         : - Kunjumon A. C.
-• Permanent Address     : - Chazhoorkaran House, Varandarapilly, Thrissur
-• Date of Birth         : - 17th November 1995
-• Language Known        : - English, Hindi & Malayalam
-• Marital Status        : - Single
-• Nationality/Religion  : - Indian /Hindu
-• Interest & Hobbies    : - Bike Riding, Table Tennis, basketball & PCB Designing
-• Contact Information   : - +91 7012462700
+• Father’s Name         : - Kunjumon A. C.<br>
+• Permanent Address     : - Chazhoorkaran House, Varandarapilly, Thrissur<br>
+• Date of Birth         : - 17th November 1995<br>
+• Language Known        : - English, Hindi & Malayalam<br>
+• Marital Status        : - Single<br>
+• Nationality/Religion  : - Indian /Hindu<br>
+• Interest & Hobbies    : - Bike Riding, Table Tennis, basketball & PCB Designing<br>
+• Contact Information   : - +91 7012462700<br>
 
 
