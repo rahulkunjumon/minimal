@@ -1,20 +1,20 @@
 
 # SKILLS SUMMARY
 
-Around 4+ years of experience in Performance and Automation Testing.
-• Extensive knowledge of Performance Testing and monitoring.
-• Strong expertise in working with load testing tools like Gatling, JMeter and LoadRunner.
-• Sound Knowledge on Application Monitoring tools like New Relic and Dynatrace
-• Experience in testing Web-based and Client-Server applications on different environments.
-• Good Knowledge on Automation Testing using Selenium
-• Good Knowledge on API Automation using Rest Assured and Postman
-• Developed framework using Gatling for API performance testing
-• Worked on Automation using Fire Framework, the Tavant’s Automation Framework
-• Good Knowledge on JIRA, Zephyr and Confluence for Bug Reporting and Defect Management.
-• Good Knowledge on JAVA to perform basic coding and debugging.
-• Sound Knowledge on Apache Maven and Apache Tomcat server.
-• Worked on setting up of Functional and Non-Functional testing framework from the scratch
-• Completed ISTQB Foundation Course in Software Testing
+Around 4+ years of experience in Performance and Automation Testing.<br>
+• Extensive knowledge of Performance Testing and monitoring.<br>
+• Strong expertise in working with load testing tools like Gatling, JMeter and LoadRunner.<br>
+• Sound Knowledge on Application Monitoring tools like New Relic and Dynatrace<br>
+• Experience in testing Web-based and Client-Server applications on different environments.<br>
+• Good Knowledge on Automation Testing using Selenium<br>
+• Good Knowledge on API Automation using Rest Assured and Postman<br>
+• Developed framework using Gatling for API performance testing<br>
+• Worked on Automation using Fire Framework, the Tavant’s Automation Framework<br>
+• Good Knowledge on JIRA, Zephyr and Confluence for Bug Reporting and Defect Management.<br>
+• Good Knowledge on JAVA to perform basic coding and debugging.<br>
+• Sound Knowledge on Apache Maven and Apache Tomcat server.<br>
+• Worked on setting up of Functional and Non-Functional testing framework from the scratch<br>
+• Completed ISTQB Foundation Course in Software Testing<br>
 ---
 # Experience
 
@@ -22,29 +22,29 @@ Around 4+ years of experience in Performance and Automation Testing.
 ### Senior Quality Engineer II,  12/2019 - Till Date
 
 #### 1. Project Name: RASTA QA (RAkuten Super Targeting Ad)
-- Project Brief:
+- Project Brief:<br>
 RASTA team deals with the delivery of Ads to the Rakuten Ichiba Ecommerce platform. Key
-responsibilities involved in RASTA were:
-• Setting up of QA process for Rasta
+responsibilities involved in RASTA were:<br>
+• Setting up of QA process for Rasta<br>
 • Do the requirement Analysis with the concerned team, Create the Test Plan and Test Design for the
-project.
+project.<br>
 • Setup an Automation framework from the scratch for all the RASTA Api’s using Cucumber/Rest
-Assured and validate various filters for the millions of item present in the DB
+Assured and validate various filters for the millions of item present in the DB<br>
 • Setup a performance testing framework from the scratch using Gatling to evaluate performance and
-capabilities of Rasta Servers
+capabilities of Rasta Servers<br>
 • Performance tuning of Rasta application by coming up with various configuration changes in the
-servers and provide the best configuration
-• Performance monitoring during Rakuten Super sale
+servers and provide the best configuration<br>
+• Performance monitoring during Rakuten Super sale<br>
 • Incorporate various services into RASTA and come up with QA process for those services with both
-Functional and Non-Functional Testing.
-• Create Documentation of testing and reporting in Confluence
-• Raise Bug/Bottleneck in JIRA.
-• Schedule daily execution job in Jenkins and maintain code in Git repository
+Functional and Non-Functional Testing.<br>
+• Create Documentation of testing and reporting in Confluence<br>
+• Raise Bug/Bottleneck in JIRA.<br>
+• Schedule daily execution job in Jenkins and maintain code in Git repository<br>
 • Support various projects and teams in Rakuten in setting up performance testing from the scratch
-and assist them at the critical times
-• Work parallelly on multiple projects as well as provide assist during prod release
+and assist them at the critical times<br>
+• Work parallelly on multiple projects as well as provide assist during prod release<br>
 
-<center><img src="images/RakutenLogo.png"/></center>
+<center><img src="images/RakutenLogo.png"/></center><br>
 
 ---
 ## Tavant Technologies Pvt Ltd
