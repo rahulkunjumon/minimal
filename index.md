@@ -76,7 +76,6 @@ and AppDynamics<br>
 • Creation of an Automation Regression Suite using Tavant Fire Framework for Consumer Portal<br>
 • Performance testing of various Genworth Applications<br>
 
-<center><img src="/assets/img/tavant-technologies-vector-logo.png"/></center><br>
 
 ---
 ### System Proficiency
