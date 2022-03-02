@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: <p align="center"> Rahul Kunjumon </p>
+logo: /assets/img/RAHULPassportpic.png
+
+description:
+  <p align="center">
+  <a href="pdf/RahulResume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rahulkunjumon/">LinkedIn</a> |
+  
+  <br>   
+  SENIOR QA ENGINEER II in Performance and Automation at Rakuten India Pvt. Ltd. at Rakuten India
+  <br>
+  </p>
